@@ -3,7 +3,7 @@
     "generator": "from-static-labs/static-search"
   },
   "metadata": {
-    "title": "Search | Globus",
+    "title": "Search | APS",
     "description": "This is an example of a basis Globus Search interface generated from a static.json file."
   },
   "contents": {
